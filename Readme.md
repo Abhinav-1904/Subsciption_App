@@ -4,7 +4,7 @@ A simple REST API built with Express.js and TypeScript that allows creating and 
 
 ## Features
 
-- Supports **monthly**, **yearly**, or **all** (both) subscription types.
+- Supports **monthly** or **yearly**
 - Discounts can be **percentage-based** or **fixed amount**.
 - No database required – uses in-memory storage.
 
